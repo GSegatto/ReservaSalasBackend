@@ -1,0 +1,6 @@
+@sistemaSalaReuniao_HostAddress = http://localhost:5160
+
+GET {{sistemaSalaReuniao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
